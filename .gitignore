@@ -1,0 +1,10 @@
+build/
+.vscode/
+/ordenamientos
+/ordenamientos.exe
+/ordenamientos_pruebas
+/ordenamientos_pruebas.exe
+*.o
+*.obj
+*.exe
+resultados.csv
